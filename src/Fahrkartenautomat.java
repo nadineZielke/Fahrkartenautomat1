@@ -11,7 +11,7 @@ class Fahrkartenautomat {
         double rueckgabebetrag;
         double nochZuZahlen;
 
-        // 1
+        // eins
         System.out.print("Zu zahlender Betrag (Euro): ");
         zuZahlenderBetrag = tastatur.nextDouble();
 
